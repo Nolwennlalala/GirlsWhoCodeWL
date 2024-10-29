@@ -17,7 +17,7 @@ GREEN = (0, 255, 0)
 # Frames per second
 FPS = 30
 clock = pygame.time.Clock()
-
+#rff
 # Game variables
 trex_x = 50
 trex_y = SCREEN_HEIGHT - 100  # T-Rex starting y position
